@@ -17,3 +17,5 @@ def verificar_instalacion():
 
 if __name__ == "__main__":
     verificar_instalacion()
+
+    
